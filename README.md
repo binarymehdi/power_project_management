@@ -1,6 +1,16 @@
 # Power App/ Power Automate projects:
 ## Description:
 This Github repository that keeps track of the projects I have worked on in Power App and Power Automate:
+
+## Projects list:
+<ul>
+<li>Canvas app for managing OneHand organisation tasks</li>
+<li>Using Dataverse </li>
+<li>Search for another project idea</>
+<li></li>
+</ul>
+
+
 ### One Hand Project management:
 - Description: 
  This small Power App/ Power Automate app help the organisation to keep track of the tasks they are performing. 
